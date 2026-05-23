@@ -155,21 +155,24 @@ https://pan.quark.cn/s/a52f15fba632#/list/share
 https://github.com/1bananachicken/MaaNTE
 
 ## 角色养成一图流
-<img width="485" height="815" alt="阿德勒" src="https://github.com/user-attachments/assets/da369148-2a85-44fd-9bc0-940e087ab90d" />
-<img width="480" height="811" alt="埃德嘉" src="https://github.com/user-attachments/assets/a569481a-7cfd-45cb-a087-bf8bf0111f53" />
-<img width="451" height="845" alt="白藏" src="https://github.com/user-attachments/assets/212523bd-6d26-4106-8fdd-fc6c6cedfc1a" />
-<img width="484" height="801" alt="薄荷" src="https://github.com/user-attachments/assets/d0e17593-3baf-477a-86f0-be76849d605b" />
-<img width="490" height="824" alt="法帝娅" src="https://github.com/user-attachments/assets/bc876c55-d39f-4ca9-b574-f476c19afb91" />
-<img width="455" height="806" alt="哈尼娅" src="https://github.com/user-attachments/assets/fc5a9168-9fa7-4db5-b2f9-4564f09a2ce1" />
-<img width="445" height="808" alt="海月" src="https://github.com/user-attachments/assets/c31a313b-8f16-4df2-b878-2f60df3f6861" />
-<img width="431" height="785" alt="达芙蒂尔" src="https://github.com/user-attachments/assets/d9d3fccb-62a3-4b86-a52a-6f4b376aec99" />
-<img width="535" height="850" alt="哈索尔" src="https://github.com/user-attachments/assets/ddbaa475-d1e4-4df2-9ed1-1079e023a735" />
-<img width="455" height="825" alt="九原" src="https://github.com/user-attachments/assets/0b470d83-940b-4836-88e3-556a11c07467" />
-<img width="500" height="850" alt="娜娜莉" src="https://github.com/user-attachments/assets/d48b1b03-d4a7-4da2-bae1-f2639880b369" />
-<img width="439" height="790" alt="翳" src="https://github.com/user-attachments/assets/bec0eac7-6e37-4ac5-9e97-f67500ec2fa8" />
-<img width="455" height="816" alt="小吱" src="https://github.com/user-attachments/assets/47f594b9-7d98-4e7d-8f97-79c0685997c7" />
-<img width="440" height="800" alt="早雾" src="https://github.com/user-attachments/assets/e492bbfa-588b-4662-8e33-74fad7ea675f" />
-<img width="466" height="811" alt="主角" src="https://github.com/user-attachments/assets/571d8754-d434-4b08-9d4e-b3761f78ed9b" />
+# 五星
+<img width="400" height="750" alt="达芙蒂尔" src="https://github.com/user-attachments/assets/d9d3fccb-62a3-4b86-a52a-6f4b376aec99" />
+<img width="400" height="750" alt="哈索尔" src="https://github.com/user-attachments/assets/ddbaa475-d1e4-4df2-9ed1-1079e023a735" />
+<img width="400" height="750" alt="九原" src="https://github.com/user-attachments/assets/0b470d83-940b-4836-88e3-556a11c07467" />
+<img width="400" height="750" alt="法帝娅" src="https://github.com/user-attachments/assets/bc876c55-d39f-4ca9-b574-f476c19afb91" />
+<img width="400" height="750" alt="娜娜莉" src="https://github.com/user-attachments/assets/d48b1b03-d4a7-4da2-bae1-f2639880b369" />
+<img width="400" height="750" alt="小吱" src="https://github.com/user-attachments/assets/47f594b9-7d98-4e7d-8f97-79c0685997c7" />
+<img width="400" height="750" alt="早雾" src="https://github.com/user-attachments/assets/e492bbfa-588b-4662-8e33-74fad7ea675f" />
+<img width="400" height="750" alt="主角" src="https://github.com/user-attachments/assets/571d8754-d434-4b08-9d4e-b3761f78ed9b" />
+<img width="400" height="750" alt="白藏" src="https://github.com/user-attachments/assets/212523bd-6d26-4106-8fdd-fc6c6cedfc1a" />
+
+# 四星
+<img width="400" height="750" alt="薄荷" src="https://github.com/user-attachments/assets/d0e17593-3baf-477a-86f0-be76849d605b" />
+<img width="400" height="750" alt="哈尼娅" src="https://github.com/user-attachments/assets/fc5a9168-9fa7-4db5-b2f9-4564f09a2ce1" />
+<img width="400" height="750" alt="海月" src="https://github.com/user-attachments/assets/c31a313b-8f16-4df2-b878-2f60df3f6861" />
+<img width="400" height="750" alt="翳" src="https://github.com/user-attachments/assets/bec0eac7-6e37-4ac5-9e97-f67500ec2fa8" />
+<img width="400" height="750" alt="阿德勒" src="https://github.com/user-attachments/assets/da369148-2a85-44fd-9bc0-940e087ab90d" />
+<img width="400" height="750" alt="埃德嘉" src="https://github.com/user-attachments/assets/a569481a-7cfd-45cb-a087-bf8bf0111f53" />
 
 ## 弧盘推荐一图流
 <img width="1890" height="844" alt="弧盘搭配" src="https://github.com/user-attachments/assets/86312a57-6937-487c-9422-dd025fba4532" />
