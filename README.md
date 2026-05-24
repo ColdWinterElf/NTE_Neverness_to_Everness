@@ -188,6 +188,11 @@ RACENOLIMIT
 587561296HIGDFWB
 YHDOUYIN0528
 
+## 版本更新
+
+1.1版本更新
+https://www.bilibili.com/video/BV162G66jECp/?vd_source=fa80e11bfc628d63ddd8f5278ca97cf9
+
 
 ## 待做事项
 
