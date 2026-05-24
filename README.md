@@ -180,6 +180,14 @@ https://github.com/1bananachicken/MaaNTE
 ## 强度榜单一图流
 <img width="1885" height="941" alt="强度T度榜单_20260501" src="https://github.com/user-attachments/assets/180c65c1-c414-4ba8-94d3-dedea6965bc9" />
 
+## 兑换码
+
+HUILANG0528
+TOMATO100
+RACENOLIMIT
+587561296HIGDFWB
+YHDOUYIN0528
+
 
 ## 待做事项
 
