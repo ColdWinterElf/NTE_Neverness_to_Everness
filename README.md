@@ -33,7 +33,9 @@
 4. 空中攻击跌落不掉血 坐车也不掉血
 
 ## 优质攻略
-![体力怎么刷](yihuan_picture%E4%BD%93%E5%8A%9B%E6%80%8E%E4%B9%88%E5%88%B7.png)
+<img width="1095" height="305" alt="体力怎么刷" src="https://github.com/user-attachments/assets/ef721ca3-06bb-478e-8adb-f5ab29776482" />
+<img width="1860" height="476" alt="角色养成顺序" src="https://github.com/user-attachments/assets/821164ba-fbdd-45af-8198-9fbacf8376d5" />
+
 
 小吱养成攻略
 https://www.bilibili.com/video/BV1yXokBKEj4/?vd_source=fa80e11bfc628d63ddd8f5278ca97cf9
