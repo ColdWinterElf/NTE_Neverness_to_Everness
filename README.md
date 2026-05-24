@@ -36,6 +36,8 @@
 <img width="1095" height="305" alt="体力怎么刷" src="https://github.com/user-attachments/assets/ef721ca3-06bb-478e-8adb-f5ab29776482" />
 <img width="1860" height="476" alt="角色养成顺序" src="https://github.com/user-attachments/assets/821164ba-fbdd-45af-8198-9fbacf8376d5" />
 
+空幕卡带教学
+https://www.bilibili.com/video/BV1BaovBqEeT/?vd_source=fa80e11bfc628d63ddd8f5278ca97cf9
 
 小吱养成攻略
 https://www.bilibili.com/video/BV1yXokBKEj4/?vd_source=fa80e11bfc628d63ddd8f5278ca97cf9
