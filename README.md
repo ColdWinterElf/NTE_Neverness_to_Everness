@@ -149,13 +149,6 @@ https://space.bilibili.com/43222001
 https://space.bilibili.com/6014992
 
 ## 自动工具
-
-这个没试过
-https://pan.quark.cn/s/22c2c2a5593f#/list/share
-
-这个可以
-https://pan.quark.cn/s/a52f15fba632#/list/share
-
 这个应该也行 功能更强大
 https://github.com/1bananachicken/MaaNTE
 
@@ -201,6 +194,9 @@ https://www.bilibili.com/video/BV162G66jECp/?vd_source=fa80e11bfc628d63ddd8f5278
 
 九大异闻录
 https://www.bilibili.com/video/BV1QbVj6eEsj/?vd_source=fa80e11bfc628d63ddd8f5278ca97cf9
+
+十三日梦醒
+https://www.bilibili.com/video/BV1zMG96SE6v/?vd_source=fa80e11bfc628d63ddd8f5278ca97cf9
 
 ## 待做事项
 
